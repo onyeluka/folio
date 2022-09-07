@@ -45,9 +45,9 @@ const Projects = () => {
 
           />
             <ProjectItem
-            title='Twitch UI'
+            title='Crypto Script'
             backgroundImg={finalImg}
-            projectUrl='/twitch'
+            projectUrl='/'
             tech='Next JS'
 
           />
