@@ -47,7 +47,7 @@ const Projects = () => {
             <ProjectItem
             title='Crypto Script'
             backgroundImg={finalImg}
-            projectUrl='/'
+            projectUrl='https://app-for-fun.vercel.app/'
             tech='Next JS'
 
           />
