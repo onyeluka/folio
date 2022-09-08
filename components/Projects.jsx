@@ -6,6 +6,12 @@ import cryptoImg from '../public/assets/projects/4.png'
 import netflixImg from '../public/assets/projects/2.png'
 import twitchImg from '../public/assets/projects/1.png'
 import finalImg from '../public/assets/projects/5.png'
+import finalImg1 from '../public/assets/projects/7.png'
+import finalImg2 from '../public/assets/projects/8.png'
+import finalImg3 from '../public/assets/projects/9.png'
+import finalImg4 from '../public/assets/projects/10.png'
+import finalImg5 from '../public/assets/projects/11.png'
+import finalImg6 from '../public/assets/projects/12.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -49,6 +55,48 @@ const Projects = () => {
             backgroundImg={finalImg}
             projectUrl='https://app-for-fun.vercel.app/'
             tech='Next JS'
+
+          />
+              <ProjectItem
+            title='Crypto Script'
+            backgroundImg={finalImg1}
+            projectUrl='https://coin-baseclone.vercel.app/'
+            tech='React JS'
+
+          />
+              <ProjectItem
+            title='Crypto Script'
+            backgroundImg={finalImg2}
+            projectUrl='https://crypt-alpha.vercel.app/'
+            tech='Reacr JS'
+
+          />
+              <ProjectItem
+            title='Crypto Script'
+            backgroundImg={finalImg3}
+            projectUrl='https://carp.vercel.app/'
+            tech='React JS'
+
+          />
+              <ProjectItem
+            title='Crypto Script'
+            backgroundImg={finalImg4}
+            projectUrl='https://pets-theta.vercel.app/'
+            tech='React JS'
+
+          />
+              <ProjectItem
+            title='Crypto Script'
+            backgroundImg={finalImg5}
+            projectUrl='https://defi-kappa.vercel.app/'
+            tech='React JS'
+
+          />
+              <ProjectItem
+            title='Crypto Script'
+            backgroundImg={finalImg6}
+            projectUrl='https://data-eta.vercel.app/'
+            tech='React JS'
 
           />
         </div>
