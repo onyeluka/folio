@@ -58,42 +58,42 @@ const Projects = () => {
 
           />
               <ProjectItem
-            title='Crypto Script'
+            title='Cloning Coinbase'
             backgroundImg={finalImg1}
             projectUrl='https://coin-baseclone.vercel.app/'
             tech='React JS'
 
           />
               <ProjectItem
-            title='Crypto Script'
+            title='Simple Crypto Landing Page'
             backgroundImg={finalImg2}
             projectUrl='https://crypt-alpha.vercel.app/'
             tech='Reacr JS'
 
           />
               <ProjectItem
-            title='Crypto Script'
+            title='Simple IKEA clone'
             backgroundImg={finalImg3}
             projectUrl='https://carp.vercel.app/'
             tech='React JS'
 
           />
               <ProjectItem
-            title='Crypto Script'
+            title='Pets Everywhere in React'
             backgroundImg={finalImg4}
             projectUrl='https://pets-theta.vercel.app/'
             tech='React JS'
 
           />
               <ProjectItem
-            title='Crypto Script'
+            title='Creating a simple Defi'
             backgroundImg={finalImg5}
             projectUrl='https://defi-kappa.vercel.app/'
             tech='React JS'
 
           />
               <ProjectItem
-            title='Crypto Script'
+            title='Creating a data website'
             backgroundImg={finalImg6}
             projectUrl='https://data-eta.vercel.app/'
             tech='React JS'
