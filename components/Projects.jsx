@@ -101,7 +101,7 @@ const Projects = () => {
 
           />
              <ProjectItem
-            title='Creating a data website'
+            title='Payment systems website'
             backgroundImg={finalImg7}
             projectUrl='https://payments-swart.vercel.app/'
             tech='React JS'
