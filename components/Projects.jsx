@@ -12,6 +12,7 @@ import finalImg3 from '../public/assets/projects/9.png'
 import finalImg4 from '../public/assets/projects/10.png'
 import finalImg5 from '../public/assets/projects/11.png'
 import finalImg6 from '../public/assets/projects/12.png'
+import finalImg7 from '../public/assets/projects/15.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -96,6 +97,13 @@ const Projects = () => {
             title='Creating a data website'
             backgroundImg={finalImg6}
             projectUrl='https://data-eta.vercel.app/'
+            tech='React JS'
+
+          />
+             <ProjectItem
+            title='Creating a data website'
+            backgroundImg={finalImg7}
+            projectUrl='https://payments-swart.vercel.app/'
             tech='React JS'
 
           />
